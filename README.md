@@ -1,4 +1,5 @@
-# Hi I'm Ashley, a Software Engineer Student 😁
+# Ashley
+# Software Engineer 😁
 
-- Currently working on my final project
+
 
